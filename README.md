@@ -16,7 +16,7 @@ Insights using a survey from data professionals utilising Power BI
 - Customization of dashboard themes to enhance visual aesthetics and match project branding.
 - Thorough analysis of various dataset aspects, including job titles, programming language preferences, salary distributions, perceptions of work-life balance, challenges in entering data science, gender representation, and more.
 
-## Data showcased on the Dashboard:
+## Data Showcased on the Dashboard:
    - A visual depiction of the total count of survey participants.
    - The average age of the individuals who participated in the survey.
    - An in-depth exploration of job title distribution and corresponding average salaries.
